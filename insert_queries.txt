@@ -1,0 +1,32 @@
+
+-----------------------------User ID 1 For sale table---------------------------------
+INSERT INTO sale(seller_id, startdate, enddate, address_line_one, address_line_two, city, state, country, pincode,start_price) VALUES (1,'2016-11-27', '2016-12-25','11248 Fremont Avenue','Apt L','Santa Clara','California','USA','12345-6789',2100);
+
+INSERT INTO sale(seller_id, startdate, enddate, address_line_one, address_line_two, city, state, country, pincode,start_price) VALUES (1, '2016-10-27', 
+'2016-11-25', '11248 Fremont Avenue','Apt L','Santa Clara','California','USA','12345-6789',2200);
+
+INSERT INTO sale(seller_id, startdate, enddate, address_line_one, address_line_two, city, state, country, pincode,start_price) VALUES (1, '2016-11-27', '2016-12-22', '11248 Fremont Avenue','Apt L','Santa Clara','California','USA','12345-6789',1000);
+
+INSERT INTO sale(seller_id, startdate, enddate, address_line_one, address_line_two, city, state, country, pincode,start_price) VALUES (1,'2016-09-27', 
+'2016-10-25', '11248 Fremont Avenue','Apt L','Santa Clara','California','USA','12345-6789',500);
+
+INSERT INTO sale(seller_id, startdate, enddate, address_line_one, address_line_two, city, state, country, pincode,start_price) VALUES (1,'2016-04-27', '2016-08-25', '11248 Fremont Avenue','Apt L','Santa Clara','California','USA','12345-6789',9000);
+
+
+-----------------------------User ID 2 for sale table---------------------------------
+INSERT INTO sale(seller_id, startdate, enddate, address_line_one, address_line_two, city, state, country, pincode,start_price) VALUES (2, '2016-11-27', '2016-12-21', '1126 Halford Road','Apt G','Sunnyvale', 'California', 'USA', '67890-1234', 2000);
+
+INSERT INTO sale(seller_id, startdate, enddate, address_line_one, address_line_two, city, state, country, pincode,start_price) VALUES (2, '2016-08-27', '2016-11-20', '1126 Halford Road','Apt G','Sunnyvale', 'California', 'USA', '67890-1234', 1000);
+
+INSERT INTO sale(seller_id, startdate, enddate, address_line_one, address_line_two, city, state, country, pincode,start_price) VALUES (2, '2016-11-27', '2016-12-15', '1126 Halford Road','Apt G','Sunnyvale', 'California', 'USA', '67890-1234', 500);
+
+INSERT INTO sale(seller_id, startdate, enddate, address_line_one, address_line_two, city, state, country, pincode,start_price) VALUES (2, '2016-10-24', '2016-11-25', '1126 Halford Road','Apt G','Sunnyvale', 'California', 'USA', '67890-1234', 8000);
+
+
+-----------------------------User ID 1 for bid table---------------------------------
+
+
+
+
+
+
